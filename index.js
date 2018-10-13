@@ -10,4 +10,5 @@ function logShout(string) {
 function logWhisper(string) {
   console.log(string.toLowerCase())
 }
-var hearingTest = function {
+var hearingTest = function sayHiToGrandma(string) {
+  if string
