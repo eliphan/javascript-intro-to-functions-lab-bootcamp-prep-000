@@ -30,6 +30,6 @@ mixedCase.toUpperCase() === mixedCase
 mixedCase.toLowerCase() === mixedCase
 function sayHiToGrandma(string) {
   if (mixedCase) {
-    return
+    return "I love you, too.";
   }
 }
