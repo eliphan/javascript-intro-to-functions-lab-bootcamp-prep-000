@@ -19,10 +19,10 @@ mixedCase.toLowerCase() === mixedCase
 mixedCase.toUpperCase() === mixedCase
 var hearingTest = function sayHiToGrandma(string) {
   if (hearingTest = lowercase) {
-    return"I can\'t hear you!"
+    return "I can\'t hear you!";
    } else if (hearingTest = uppercase {
-     return"YES INDEED!"
+     return "YES INDEED!";
   }
     else (hearingTest = mixedCase) {
-      return"I love you, too."
+      return "I love you, too.";
     }
