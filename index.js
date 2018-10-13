@@ -21,6 +21,15 @@ function sayHiToGrandma(string) {
     return "YES INDEED!";
   }
 }
+var upperCase = "HELLO"
+uppercase.toUpperCase() === uppercase
+var lowerCase = "hello"
+lowercase.toLowerCase() === lowercase
+var mixedCase = "Hi there"
+mixedCase.toUpperCase() === mixedCase
+mixedCase.toLowerCase() === mixedCase
 function sayHiToGrandma(string) {
-  if (string.)
+  if (mixedCase) {
+    return
+  }
 }
