@@ -20,5 +20,5 @@ mixedCase.toUpperCase() === mixedCase
 var hearingTest = function sayHiToGrandma(string) {
   if (hearingTest = uppercase) {
     return"I can\'t hear you!"
-   } else if {
+   } else if (hearingTest = {
   }
