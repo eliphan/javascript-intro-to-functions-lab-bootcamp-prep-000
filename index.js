@@ -11,4 +11,4 @@ function logWhisper(string) {
   console.log(string.toLowerCase())
 }
 var hearingTest = function sayHiToGrandma(string) {
-  if string
+  if string.to
