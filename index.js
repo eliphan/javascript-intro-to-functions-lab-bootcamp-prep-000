@@ -26,3 +26,4 @@ var hearingTest = function sayHiToGrandma(string) {
     else (hearingTest = mixedCase) {
       return "I love you, too.";
     }
+}
