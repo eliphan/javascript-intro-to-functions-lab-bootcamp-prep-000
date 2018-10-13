@@ -23,4 +23,6 @@ var hearingTest = function sayHiToGrandma(string) {
    } else if (hearingTest = uppercase {
      return"YES INDEED!"
   }
-    else (hearingTest = mixedCase)
+    else (hearingTest = mixedCase) {
+      return"I love you, too."
+    }
